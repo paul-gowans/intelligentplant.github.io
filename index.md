@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+#### Welcome
 
-You can use the [editor on GitHub](https://github.com/intelligentplant/intelligentplant.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The \*\*App Store Wiki\*\* is the centre of knowledge for all things App
+Store.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Have a question? Search the site or browse the sitemap.
 
-### Markdown
+Can\'t find what you\'re looking for? [Get in
+touch](http://www.intelligentplant.com/contact.html "wikilink") and let
+us know.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Contents
 
-```markdown
-Syntax highlighted code block
+` *  `[`General:App`` ``Store`` ``Users`](General:App_Store_Users "wikilink")`: New to the Industrial App Store? Here's what you need to know.`
 
-# Header 1
-## Header 2
-### Header 3
+` *  `[`General:Apps`](General:Apps "wikilink")`: User guides and notes on Apps available in the Industrial App Store.`
 
-- Bulleted
-- List
+` *  `[`App_Store_Connect:App`` ``Store`` ``Connect`](App_Store_Connect:App_Store_Connect "wikilink")`: Connect your data to cloud-based apps.`
 
-1. Numbered
-2. List
+` *  `[`Dev:App`` ``Store`` ``Developers`](Dev:App_Store_Developers "wikilink")`: How to get your App onto the Industrial App Store.`
 
-**Bold** and _Italic_ and `Code` text
+` *  `[`General:Security`](General:Security "wikilink")`: Find out about our Security Policy.`
 
-[Link](url) and ![Image](src)
-```
+` *  `[`Industrial`` ``App`` ``Store`
+`Digital`` ``Security`](https://www.intelligentplant.com/datasheets/IAS-Digital%20Security-Key%20Features.pdf "wikilink")`: Key features.`
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+` *  `[`General:Organization`` ``User`` ``and`` ``Data`` ``Management`](General:Organization_User_and_Data_Management "wikilink")`: Learn how registered organizations can manage the apps that their users can access, and share access to their data sources with trusted 3rd parties. Download the `[`Industrial`` ``App`` ``Store`` ``Organization`` ``Registration`` ``Information`` ``Sheet`](https://appstore.intelligentplant.com/nuget/downloads/App_Store_Organisation_Registration.pdf "wikilink")` to learn how organizations can enable users to sign in to the Industrial App Store with their work accounts.`
 
-### Jekyll Themes
+` *  `[`Uptime,`` ``Maintenance`` ``Schedules`` ``and`` ``Release`` ``Notes`](General:Uptime_and_Maintenance_Schedules "wikilink")`: General details on uptime, upcoming maintenance schedules, and release notes for the Industrial App Store portal and Intelligent Plant apps.`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intelligentplant/intelligentplant.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+` * `[`Support`](Support:Support "wikilink")`: Contact Details and Self Help Guides`
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+` * `[`Customer`` ``Data,`` ``Data`` ``Security`` ``&`` ``GDPR`](General:CustomerData "wikilink")`: Information on our Data Security policy.`
