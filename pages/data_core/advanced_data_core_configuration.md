@@ -7,24 +7,24 @@ or an Alarm & Events subscription streaming data to Alarm Analysis.
 
 ## Advanced Topics
 
-  - [Data Sources](../Data_Core/Data%20Sources): Complete list of App
+  - [Data Sources](../data_core/data_sources.md): Complete list of App
     Store Connect compatible data sources
   - [How to Connect to a PI Server](https://youtu.be/cajhDd7Ughg?t=243):
     Video tutorial
   - [Capturing Alarms & Events from Militarized Network
-    Domains](../alarm_analysis/Resilient%20Data%20Transfer)
-  - [Stand-Alone Installation](../Data_Core/Stand-Alone%20Installation):
+    Domains](../alarm_analysis/resilient_data_transfer.md)
+  - [Stand-Alone Installation](../data_core/stand-alone_installation.md):
     Install a Data Core Node
-  - [Create an Event Subscription](../data_core/event_subscription)
+  - [Create an Event Subscription](../data_core/event_subscription.md)
   - [How to Run App Store Connect under a Service
-    Account](../Data_Core/How%20to%20Run%20App%20Store%20Connect%20under%20a%20Service%20Account)
+    Account](../data_core/how_to_run_app_store_connect_under_a_service_account.md)
   - [Back Up and
-    Restore](../App%20Store%20Connect/Back%20Up%20and%20Restore)
+    Restore](../app_store_connect/back_up_and_restore)
   - [Big Data Service Advanced
-    Configuration](../Big%20Data%20Service/Big%20Data%20Service%20Advanced%20Configuration)
+    Configuration](../big_data_service/big_data_service_advanced_configuration.md)
   - [Configure Performance Counters to track Server and Data Core
-    Performance](../data_core/performance_counters)
+    Performance](../data_core/performance_counters.md)
   - [App Store Connect
-    Updates](../data_core/App%20Store%20Connect%20Updates)
-  - [Performance Counters](../data_core/Performance%20Counters)
-  - [Script Tags](../data_core/Script%20Tags)
+    Updates](../data_core/app_store_connect_updates.md)
+  - [Performance Counters](../data_core/performance_counters.md)
+  - [Script Tags](../data_core/script_tags.md)
