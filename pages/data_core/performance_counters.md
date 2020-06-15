@@ -13,8 +13,10 @@ This requires
 
 To register data core performance counters
 
-1\. Open file explorer and navigate to ![{%ProgramFiles%\\Intelligent
-Plant\\Data Core]({%ProgramFiles%\\Intelligent%20Plant\\Data%20Core)}
+
+
+1\. Open file explorer and navigate to  %ProgramFiles%\\Intelligent
+Plant\\Data Core
 
 2\. On file explorer, select: File \> Open Winodws PowerShell as
 administator
